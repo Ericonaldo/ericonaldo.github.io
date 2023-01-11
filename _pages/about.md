@@ -62,6 +62,7 @@ redirect_from:
 
 # Honors and Awards
 * [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship), Oct. 2022.
+* NeurIPS 2022 Top Reviewer, Oct. 2022.
 * National Doctoral Scholarship, Oct. 2022.
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
