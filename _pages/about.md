@@ -33,6 +33,7 @@ redirect_from:
 
 
 # Recent News
+* Jan. 21, 2023. One paper accepted by ICLR 2023.
 * Sept. 15, 2022. Two papers accepted by NeurIPS 2022.
 * May. 23, 2022. Won the TOP1 of Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw)
 * May. 15, 2022. One paper accepted by ICML 2022.
