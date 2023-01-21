@@ -8,7 +8,7 @@ author_profile: true
 <br> 
 <b>Visual Imitation with Patch Rewards</b> <br> 
 <b>Minghuan Liu</b>, Tairan He, Weinan Zhang, Shuicheng YAN, Zhongwen Xu. <br> 
-<i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>. [<a href="https://arxiv.org/abs/2001.03415">paper</a>][<a href="https://github.com/apexrl/CoDAIL">code</a>]
+<i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>. [<a href="https://openreview.net/forum?id=OnM3R47KIiU">paper</a>][<a href="[https://github.com/apexrl/CoDAIL](https://github.com/sail-sg/PatchAIL)">code</a>] [<a href="https://sites.google.com/view/patchail/">project</a>]
 
 
 <br>
@@ -25,7 +25,7 @@ Tairan He, Yuge Zhang, Kan Ren, <b>Minghuan Liu</b>, Che Wang, Weinan Zhang, Don
 <br>
 <b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization </b> <br>
 <b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang<br> 
-<i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b> [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>]
+<i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b> [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">project</a>]
 
 <br>
 <b>	Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble </b> <br>
