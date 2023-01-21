@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br> 
+<b>Visual Imitation with Patch Rewards</b> <br> 
+<b>Minghuan Liu</b>, Tairan He, Weinan Zhang, Shuicheng YAN, Zhongwen Xu. <br> 
+<i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>. [<a href="https://arxiv.org/abs/2001.03415">paper</a>][<a href="https://github.com/apexrl/CoDAIL">code</a>]
+
 
 <br>
 <b>	PerfectDou: Dominating DouDizhu with Perfect Information Distillation </b> <br>
