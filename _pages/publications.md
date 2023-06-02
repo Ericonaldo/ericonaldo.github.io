@@ -1,9 +1,19 @@
 ---
 layout: archive
-title: "Publications / Preprints"
+title: "Selected Publications / Preprints (* Equal Contribution.)"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
+Zhengbang Zhu* <b>Minghuan Liu*</b>, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
+<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>]
+
+<br>
+<b>Is Episodic Risk-Sensitive Reinforcement Learning Properly Resolved?</b>
+Ruiwen Zhou, <b>Minghuan Liu</b>, Kan Ren, Xufang Luo, Weinan Zhang, Dongsheng Li. <br>
+<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/">paper to be released</a>]
 
 <br> 
 <b>Visual Imitation with Patch Rewards</b> <br> 
@@ -14,7 +24,6 @@ author_profile: true
 <br>
 <b>	PerfectDou: Dominating DouDizhu with Perfect Information Distillation </b> <br>
 Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun Zeng, Yue Lin<br>
-\* Equal Contribution. <br>
 <i>The 36th Conference on Neural Information Processing Systems, 2022</i>. <b>NeurIPS 2022</b>. [<a href="https://arxiv.org/abs/2203.16406">paper</a>] [<a href="https://github.com/microsoft/autorl-research/tree/main/a2ls">code</a>]
 
 <br>
@@ -35,13 +44,12 @@ Zhengyu Yang, Kan Ren, Xufang Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bian,
 <br>
 <b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
 <b>Minghuan Liu\*</b>, Menghui Zhu*, Weinan Zhang<br> 
-\* Equal Contribution. <br> 
+ 
 <i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022 (Survey track)</b>. [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
 
 <br>
 <b>	Curriculum Offline Imitation Learning </b> <br>
 <b>Minghuan Liu\*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
-\* Equal Contribution. <br> 
 <i>The 35th Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b>. [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
 
 <br>
@@ -52,7 +60,7 @@ Weinan Zhang, Zhengyu Yang, Jian Shen, <b>Minghuan Liu</b>, Yimin Huang, Xing Zh
 <br>
 <b>MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks</b> <br>
 Menghui Zhu*, <b>Minghuan Liu*</b>, Jian Shen, Zhicheng Zhang, Sheng Chen, Weinan Zhang, Deheng Ye, Yong Yu, Qiang Fu, Wei Yang <br> 
-\* Equal Contribution. <br> 
+ 
 <i>The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021</i>. <b>IJCAI 2021</b>. [<a href="https://arxiv.org/abs/2105.06350">paper</a>][<a href="https://github.com/apexrl/MapGo">code</a>]
 
 <br>
