@@ -11,7 +11,7 @@ Zhengbang Zhu* <b>Minghuan Liu*</b>, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu
 <i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>]
 
 <br>
-<b>Is Episodic Risk-Sensitive Reinforcement Learning Properly Resolved?</b>
+<b>Is Episodic Risk-Sensitive Reinforcement Learning Properly Resolved?</b> <br>
 Ruiwen Zhou, <b>Minghuan Liu</b>, Kan Ren, Xufang Luo, Weinan Zhang, Dongsheng Li. <br>
 <i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/">paper to be released</a>]
 
