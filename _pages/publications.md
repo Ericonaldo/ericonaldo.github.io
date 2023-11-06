@@ -6,14 +6,20 @@ author_profile: true
 ---
 
 <br>
+<b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br> 
+Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong. <br> 
+<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://https://roboflamingo.github.io/">project</a>]
+
+<br>
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
 Zhengbang Zhu* <b>Minghuan Liu*</b>, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
 <i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>]
 
 <br>
-<b>Is Episodic Risk-Sensitive Reinforcement Learning Properly Resolved?</b> <br>
+<b>Is Risk-Sensitive Reinforcement Learning Properly Resolved?</b> <br>
 Ruiwen Zhou, <b>Minghuan Liu</b>, Kan Ren, Xufang Luo, Weinan Zhang, Dongsheng Li. <br>
-<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/">paper to be released</a>]
+<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2307.00547">paper</a>]
+
 
 <br> 
 <b>Visual Imitation with Patch Rewards</b> <br> 
