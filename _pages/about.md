@@ -70,7 +70,7 @@ redirect_from:
 * National Doctoral Scholarship, Oct. 2022.
 
 # Services
-* Conference Reviewer: NeurIPS'21'22'23'24, ICML'21'22'23, ICLR'23'24
+* Conference Reviewer: NeurIPS'21'22'23, ICML'21'22'23, ICLR'23'24
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
 
