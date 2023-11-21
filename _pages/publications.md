@@ -8,7 +8,7 @@ author_profile: true
 <br>
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br> 
 Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong. <br> 
-<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://https://roboflamingo.github.io/">project</a>]
+<i>In submission</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://roboflamingo.github.io/">project</a>]
 
 <br>
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
