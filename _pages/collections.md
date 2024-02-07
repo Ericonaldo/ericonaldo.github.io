@@ -4,6 +4,10 @@ permalink: /collections/
 author_profile: true
 ---
 
+<b>[RoboFlamingo](https://github.com/RoboFlamingo/RoboFlamingo)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/roboflamingo/roboflamingo?style=social"><br>
+A pre-trained-VLM-based robotics learning framework.<br>
+
 <b>[ILSwiss](https://github.com/Ericonaldo/ILSwiss)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericonaldo/ilswiss?style=social"><br>
 An Easy-to-run Imitation Learning (IL, or Learning from Demonstration, LfD) and also Reinforcement Learning (RL) framework (template) in PyTorch.<br>
