@@ -13,7 +13,7 @@ Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, C
 <br>
 <b>Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation</b> <br> 
 Hongtao Wu, Ya Jing, Chilam Cheang, Guangzeng Chen, Jiafeng Xu, Xinghang Li, <b>Minghuan Liu</b>, Hang Li, Tao Kong. <br> 
-<i>The 12th International Conference on Learning Representations</i>. <b>ICLR 2024</b>. [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://github.com/GR1-Manipulation/GR-1">project</a>]
+<i>The 12th International Conference on Learning Representations</i>. <b>ICLR 2024</b>. [<a href="https://arxiv.org/abs/2312.13139">paper</a>] [<a href="https://github.com/GR1-Manipulation/GR-1">code</a>] [<a href="https://gr1-manipulation.github.io/">project</a>]
 
 <br>
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
