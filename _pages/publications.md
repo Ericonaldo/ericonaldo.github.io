@@ -54,7 +54,6 @@ Zhengyu Yang, Kan Ren, Xufang Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bian,
 <br>
 <b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
 <b>Minghuan Liu\*</b>, Menghui Zhu*, Weinan Zhang<br> 
- 
 <i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022 (Survey track)</b>. [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
 
 <br>
@@ -69,8 +68,7 @@ Weinan Zhang, Zhengyu Yang, Jian Shen, <b>Minghuan Liu</b>, Yimin Huang, Xing Zh
 
 <br>
 <b>MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks</b> <br>
-Menghui Zhu*, <b>Minghuan Liu*</b>, Jian Shen, Zhicheng Zhang, Sheng Chen, Weinan Zhang, Deheng Ye, Yong Yu, Qiang Fu, Wei Yang <br> 
- 
+Menghui Zhu*, <b>Minghuan Liu*</b>, Jian Shen, Zhicheng Zhang, Sheng Chen, Weinan Zhang, Deheng Ye, Yong Yu, Qiang Fu, Wei Yang<br> 
 <i>The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021</i>. <b>IJCAI 2021</b>. [<a href="https://arxiv.org/abs/2105.06350">paper</a>][<a href="https://github.com/apexrl/MapGo">code</a>]
 
 <br>
