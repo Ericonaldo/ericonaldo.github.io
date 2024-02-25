@@ -62,28 +62,22 @@ redirect_from:
 Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.<br>
 <i>The 12th International Conference on Learning Representations</i>. <b>ICLR 2024</b>. <font color="red"><em><strong>(Spotlight)</strong></em></font>.  [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://roboflamingo.github.io/">project</a>]
 
-<br>
 <b>Visual Imitation with Patch Rewards</b><br>
 <b>Minghuan Liu</b>, Tairan He, Weinan Zhang, Shuicheng YAN, Zhongwen Xu. <br>
 <i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>. [<a href="https://openreview.net/forum?id=OnM3R47KIiU">paper</a>] [<a href="[https://github.com/apexrl/CoDAIL](https://github.com/sail-sg/PatchAIL)">code</a>] [<a href="https://sites.google.com/view/patchail/">project</a>]
 
-
-<br>
 <b>	PerfectDou: Dominating DouDizhu with Perfect Information Distillation</b><br>
 Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun Zeng, Yue Lin.<br>
 <i>The 36th Conference on Neural Information Processing Systems, 2022</i>. <b>NeurIPS 2022</b>. [<a href="https://arxiv.org/abs/2203.16406">paper</a>] [<a href="https://github.com/microsoft/autorl-research/tree/main/a2ls">code</a>]
 
-<br>
 <b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization.</b><br>
 <b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang.<br>
 <i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b>. [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">project</a>]
 
-<br>
 <b>	Curriculum Offline Imitation Learning </b>
 <b>Minghuan Liu\*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu.<br>
 <i>The 35th Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b>. [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
 
-<br>
 <b>Energy-Based Imitation Learning</b>
 <b>Minghuan Liu</b>, Tairan He, Minkai Xu, Weinan Zhang.<br>
 <i>The 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021</i>. <b>AAMAS 2021</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2004.09395">paper</a>][<a href="https://github.com/apexrl/EBIL-torch">code</a>]
