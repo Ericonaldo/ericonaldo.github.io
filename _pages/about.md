@@ -32,13 +32,6 @@ redirect_from:
   
 * When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have more than 4.6k followers.
 
-* Football (soccer), Forward, A fan of [Shandong Luneng Taishan](http://www.lnts.com.cn/), A beginner of football analystics with AI. 
-    * Click [[demo-1]](/files/sac-demo1.mp4) and [[demo-2]](/files/sac-demo2.mp4) to see some interesting gadgets I've made for football analysis during the Sports Analytics Challenge sponsored by PSG. 
-    <!-- * Click [[doc-1]](/files/mot_project.pdf) to see a small project that I've made with my classmates about Multi-Object Tracking for basketball players on NCAA video dataset. -->
-    * Have kept a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics motivated by [NBAStuffer-Analytics-101](https://www.nbastuffer.com/analytics-101/), in order to provide ordered, collected and detailed, information about football (soccer) analytics for research works and interesting stuff. <!-- I will be geard towards collecting such information and try to find interesting topics to do as a research hobby.-->
-
-
-
 # Recent News
 * Jan. 21, 2024. Two papers accepted by ICLR 2024.
 * Jan. 21, 2023. One paper accepted by ICLR 2023.
@@ -63,6 +56,39 @@ redirect_from:
 <!-- * * Mar. 23, 2019. Won the TOP10 of the SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)-->
 <!-- * * Nov. 19, 2018. Won the TOP3 of the Weather Forecast Competition of AI Challenger 2018. [[Link]](https://challenger.ai)[[News]](https://challenger.ai//ai_challenger_2018_winners)-->
 
+# Selected Publications ([Full List](https://minghuanliu.com/publications/))
+
+<b>Vision-Language Foundation Models as Effective Robot Imitators</b> 
+Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.
+<i>The 12th International Conference on Learning Representations</i>. <b>ICLR 2024</b>. <font color="red"><em><strong>(Spotlight)</strong></em></font>.  [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://roboflamingo.github.io/">project</a>]
+
+
+<b>Visual Imitation with Patch Rewards</b>
+<b>Minghuan Liu</b>, Tairan He, Weinan Zhang, Shuicheng YAN, Zhongwen Xu. 
+<i>The 11th International Conference on Learning Representations</i>. <b>ICLR 2023</b>. [<a href="https://openreview.net/forum?id=OnM3R47KIiU">paper</a>] [<a href="[https://github.com/apexrl/CoDAIL](https://github.com/sail-sg/PatchAIL)">code</a>] [<a href="https://sites.google.com/view/patchail/">project</a>]
+
+
+
+<b>	PerfectDou: Dominating DouDizhu with Perfect Information Distillation </b>
+Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun Zeng, Yue Lin
+<i>The 36th Conference on Neural Information Processing Systems, 2022</i>. <b>NeurIPS 2022</b>. [<a href="https://arxiv.org/abs/2203.16406">paper</a>] [<a href="https://github.com/microsoft/autorl-research/tree/main/a2ls">code</a>]
+
+
+<b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization </b>
+<b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang
+<i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b>. [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">project</a>]
+
+
+<b>	Curriculum Offline Imitation Learning </b>
+<b>Minghuan Liu\*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu
+<i>The 35th Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b>. [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
+
+
+<b>Energy-Based Imitation Learning</b>
+<b>Minghuan Liu</b>, Tairan He, Minkai Xu, Weinan Zhang.
+<i>The 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021</i>. <b>AAMAS 2021</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2004.09395">paper</a>][<a href="https://github.com/apexrl/EBIL-torch">code</a>]
+
+
 # Competitions
 * TOP1, Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw) May. 23, 2022.
 * TOP5, Liver Cancer Imaging AI Diagnosis. [[Link]](https://www.datafountain.cn/competitions/335)[[News]](https://mp.weixin.qq.com/s/yA_M4u71RLKoFKuKd9Jqiw) Apr. 4, 2019.
@@ -76,6 +102,14 @@ redirect_from:
 
 # Services
 * Conference Reviewer: NeurIPS'21'22'23, ICML'21'22'23, ICLR'23'24, CVPR'24
+
+# Misc
+* I love playing / watching football (soccer), Forward, A fan of [Shandong Luneng Taishan](http://www.lnts.com.cn/), A beginner of football analystics with AI. 
+    * Click [[demo-1]](/files/sac-demo1.mp4) and [[demo-2]](/files/sac-demo2.mp4) to see some interesting gadgets I've made for football analysis during the Sports Analytics Challenge sponsored by PSG. 
+    <!-- * Click [[doc-1]](/files/mot_project.pdf) to see a small project that I've made with my classmates about Multi-Object Tracking for basketball players on NCAA video dataset. -->
+    * Have kept a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics motivated by [NBAStuffer-Analytics-101](https://www.nbastuffer.com/analytics-101/), in order to provide ordered, collected and detailed, information about football (soccer) analytics for research works and interesting stuff. <!-- I will be geard towards collecting such information and try to find interesting topics to do as a research hobby.-->
+* I also play tennis (NTRP 3.0-3.5) in my spare time.
+
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
 
