@@ -28,7 +28,7 @@ redirect_from:
 
 * My current research interests lie in the general area of **reinforcement learning (RL)**. Particularly, I was devoted in (data-driven) RL methods, like **imitation learning**, **offline RL** that can solve real-world decision-making challenges. 
   
-* Recently, I have been taking my understanding in IL/RL to work on **robotics learning**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions.
+* Recently, I have been taking my knowledge in IL/RL to work on **robotics learning**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions.
   
 * When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have more than 4.6k followers.
 
