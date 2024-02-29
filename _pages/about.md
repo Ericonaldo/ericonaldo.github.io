@@ -30,7 +30,7 @@ redirect_from:
   
 * Recently, I have been taking my knowledge in IL/RL to work on **robotics learning**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions.
   
-* When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have more than 4.6k followers.
+* When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.6k+** followers.
 
 # Recent News
 * Jan. 21, 2024. Two papers accepted by ICLR 2024.
@@ -74,11 +74,11 @@ Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun 
 <b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang.<br>
 <i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b>. [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>] [<a href="https://decoupled-policy-optimization.github.io/">project</a>]
 
-<b>	Curriculum Offline Imitation Learning </b>
+<b>	Curriculum Offline Imitation Learning </b><br>
 <b>Minghuan Liu\*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu.<br>
 <i>The 35th Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b>. [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
 
-<b>Energy-Based Imitation Learning</b>
+<b>Energy-Based Imitation Learning</b><br>
 <b>Minghuan Liu</b>, Tairan He, Minkai Xu, Weinan Zhang.<br>
 <i>The 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021</i>. <b>AAMAS 2021</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2004.09395">paper</a>][<a href="https://github.com/apexrl/EBIL-torch">code</a>]
 
