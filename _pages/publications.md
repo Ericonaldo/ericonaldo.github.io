@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Visual Whole-Body Control for Legged Loco-Manipulation</b> <br>
+<b>Minghuan Liu*</b>, Zixuan Chen*, Xuxin Cheng, Yandong Ji, Ruihan Yang, Xiaolong Wang.<br>
+<i>Arxiv</i>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>]
+
 <br>
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br> 
 Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong. <br> 
