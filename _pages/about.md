@@ -59,11 +59,11 @@ redirect_from:
 # Selected Publications ([Full List](https://minghuanliu.com/publications/))
 
 <b>Visual Whole-Body Control for Legged Loco-Manipulation</b> <br>
-<b>Minghuan Liu*</b>, Zixuan Chen*, Xuxin Cheng, Yandong Ji, Ruihan Yang, Xiaolong Wang.<br>
+<b>Minghuan Liu\*</b>, Zixuan Chen*, Xuxin Cheng, Yandong Ji, Ruihan Yang, Xiaolong Wang.<br>
 <i>Arxiv</i>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>]
 
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br>
-Xinghang Li* <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.<br>
+Xinghang Li*, <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.<br>
 <i>The 12th International Conference on Learning Representations</i>. <b>ICLR 2024</b>. <font color="red"><em><strong>(Spotlight)</strong></em></font>.  [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://roboflamingo.github.io/">project</a>]
 
 <b>Visual Imitation with Patch Rewards</b><br>
