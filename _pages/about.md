@@ -33,12 +33,13 @@ redirect_from:
 * When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.6k+** followers.
 
 # Recent News
+* Sept. 6, 2024. Three papers ([VBC](https://wholebody-b1.github.io/), [ACE](https://ace-teleop.github.io/), [GenSim2](https://gensim2.github.io/)) accepted by CoRL 2024.
 * Jan. 21, 2024. Two papers accepted by ICLR 2024.
 * Jan. 21, 2023. One paper accepted by ICLR 2023.
 * Sept. 15, 2022. Two papers accepted by NeurIPS 2022.
 * May. 23, 2022. Won the TOP1 of Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw)
-* May. 15, 2022. One paper accepted by ICML 2022.
-* Apr. 21, 2022. Two papers accepted by IJCAI 2022.
+<!-- * May. 15, 2022. One paper accepted by ICML 2022. -->
+<!-- * Apr. 21, 2022. Two papers accepted by IJCAI 2022. -->
 <!-- * Nov. 18, 2021. Became a small contributor to OpenAI gym :). -->
 <!-- * Sept. 29, 2021. One paper accepted by NeurIPS 2021. -->
 <!--* * June. 19, 2021. One paper accepted by ECML-PKDD 2021.-->

@@ -5,9 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b> <br>
+Shiqi Yang, <b>Minghuan Liu\*</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
+<i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2408.11805">paper</a>] [<a href="https://ace-teleop.github.io/">project</a>] [<a href="https://github.com/ACETeleop/ACETeleop">code</a>]
+<br>
+
 <b>Visual Whole-Body Control for Legged Loco-Manipulation</b> <br>
 <b>Minghuan Liu\*</b>, Zixuan Chen*, Xuxin Cheng, Yandong Ji, Ruihan Yang, Xiaolong Wang.<br>
-<i>Arxiv</i>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>]
+<i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>] [<a href="https://github.com/Ericonaldo/visual_wholebody">code</a>]
 
 <br>
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br> 
