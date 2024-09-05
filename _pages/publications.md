@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b> <br>
-Shiqi Yang, <b>Minghuan Liu\*</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
+Shiqi Yang, <b>Minghuan Liu</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
 <i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2408.11805">paper</a>] [<a href="https://ace-teleop.github.io/">project</a>] [<a href="https://github.com/ACETeleop/ACETeleop">code</a>]
 <br>
 
