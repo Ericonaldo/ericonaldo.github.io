@@ -22,22 +22,21 @@ redirect_from:
     Tuchel and Me!
 
 <!-- * I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I used to be the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. I am also a member of [Wu Wen Jun Honorary Doctoral Plan (吴文俊荣誉博士班)](https://xsb.seiee.sjtu.edu.cn/xsb/info/33498.htm), advised by [Prof. Cewu Lu](https://www.mvig.org/). I won [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2022. [[My Curriculum Vitae]](/files/minghuanliu_cv.pdf) (update in Jan. 2023) -->
-* I am currently visiting Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s Lab, UC San Diego, CA, USA, doing robotics learning research. 
 
-* I am a fifth-year Ph.D. student in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I used to be the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. I am also a member of [Wu Wen Jun Honorary Doctoral Plan (吴文俊荣誉博士班)](https://xsb.seiee.sjtu.edu.cn/xsb/info/33498.htm), advised by [Prof. Cewu Lu](https://www.mvig.org/). I won [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2022. [[My Curriculum Vitae]](/files/minghuanliu_cv.pdf) (updated in Feb. 2024)
+* I am a final-year Ph.D. student in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). From Sept. 2023 - Aug. 2024, I visited Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s Lab at UC San Diego, CA, USA, and did robotics learning research. I used to be the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. I am also a member of [Wu Wen Jun Honorary Doctoral Plan (吴文俊荣誉博士班)](https://xsb.seiee.sjtu.edu.cn/xsb/info/33498.htm), advised by [Prof. Cewu Lu](https://www.mvig.org/). I won [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2022. [[My Curriculum Vitae]](/files/minghuanliu_cv.pdf) (updated in Feb. 2024)
 
 * My current research interests lie in the general area of **reinforcement learning (RL)**. Particularly, I was devoted in (data-driven) RL methods, like **imitation learning**, **offline RL** that can solve real-world decision-making challenges. 
   
 * Recently, I have been taking my knowledge in IL/RL to work on **robotics learning**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions.
   
-* When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.6k+** followers.
+* When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.8k+** followers.
 
 # Recent News
 * Sept. 6, 2024. Three papers ([VBC](https://wholebody-b1.github.io/), [ACE](https://ace-teleop.github.io/), [GenSim2](https://gensim2.github.io/)) accepted by CoRL 2024.
 * Jan. 21, 2024. Two papers accepted by ICLR 2024.
 * Jan. 21, 2023. One paper accepted by ICLR 2023.
-* Sept. 15, 2022. Two papers accepted by NeurIPS 2022.
-* May. 23, 2022. Won the TOP1 of Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw)
+<!-- * Sept. 15, 2022. Two papers accepted by NeurIPS 2022. -->
+<!-- * May. 23, 2022. Won the TOP1 of Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw) -->
 <!-- * May. 15, 2022. One paper accepted by ICML 2022. -->
 <!-- * Apr. 21, 2022. Two papers accepted by IJCAI 2022. -->
 <!-- * Nov. 18, 2021. Became a small contributor to OpenAI gym :). -->
@@ -59,9 +58,14 @@ redirect_from:
 
 # Selected Publications ([Full List](https://minghuanliu.com/publications/))
 
+<b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b> <br>
+Shiqi Yang, <b>Minghuan Liu\*</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
+<i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2408.11805">paper</a>] [<a href="https://ace-teleop.github.io/">project</a>] [<a href="https://github.com/ACETeleop/ACETeleop">code</a>]
+<br>
+
 <b>Visual Whole-Body Control for Legged Loco-Manipulation</b> <br>
 <b>Minghuan Liu\*</b>, Zixuan Chen*, Xuxin Cheng, Yandong Ji, Ruihan Yang, Xiaolong Wang.<br>
-<i>Arxiv</i>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>]
+<i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>] [<a href="https://github.com/Ericonaldo/visual_wholebody">code</a>]
 
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br>
 Xinghang Li*, <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.<br>
