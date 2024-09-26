@@ -27,11 +27,12 @@ redirect_from:
 
 * My research interests lie in the general area of **decision modeling**. Particularly, I was devoted to (data-driven) **reinforcement learning (RL)** methods (such as **imitation learning (IL)**, **offline RL**) and also **foundation models** that can help resolve real-world decision-making challenges. 
   
-* Recently, I have been working on one of the most complicated decision-making problems, **robots**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions. In detail, my works focus on how to generate and utilize robot data to control robots, such as **sim2real**, **robot teleoperation**, **imitation**, and **real2sim**. I believe we should construct a data-efficient robot training and evaluation cycle, and develop the robot control system in a well-designed hierarchical way. I do not believe fully end2end learning in robot control.
+* Recently, I have been working on one of the most complicated decision-making problems, **robots**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions. In detail, my works focus on how to generate and utilize robot data to control robots, such as **sim2real**, **robot teleoperation**, **imitation**, and **real2sim**. I believe we should construct a data-efficient robot training and evaluation cycle, and develop the robot control system in a well-designed hierarchical way. I do not believe in fully end2end learning in robot control.
   
 * When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.8k+** followers.
 
 # Recent News
+* Jan. 21, 2023. One paper ([MADiff](https://arxiv.org/abs/2305.17330)) accepted by NeurIPS 2024.
 * Sept. 6, 2024. Three papers ([VBC](https://wholebody-b1.github.io/), [ACE](https://ace-teleop.github.io/), [GenSim2](https://gensim2.github.io/)) accepted by CoRL 2024.
 * Jan. 21, 2024. Two papers accepted by ICLR 2024.
 * Jan. 21, 2023. One paper accepted by ICLR 2023.
