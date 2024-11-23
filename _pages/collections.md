@@ -4,6 +4,10 @@ permalink: /collections/
 author_profile: true
 ---
 
+<b>[VBC](https://github.com/Ericonaldo/visual_wholebody)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericonaldo/visual_wholebody?style=social"><br>
+Train a loco-manipulation dog with RL.<br>
+
 <b>[RoboFlamingo](https://github.com/RoboFlamingo/RoboFlamingo)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/roboflamingo/roboflamingo?style=social"><br>
 A pre-trained-VLM-based robotics learning framework.<br>
