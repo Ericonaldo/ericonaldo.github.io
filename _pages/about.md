@@ -32,7 +32,7 @@ redirect_from:
 * When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.8k+** followers.
 
 # Recent News
-* Jan. 21, 2023. One paper ([MADiff](https://arxiv.org/abs/2305.17330)) accepted by NeurIPS 2024.
+* Sept. 26, 2024. One paper ([MADiff](https://arxiv.org/abs/2305.17330)) accepted by NeurIPS 2024.
 * Sept. 6, 2024. Three papers ([VBC](https://wholebody-b1.github.io/), [ACE](https://ace-teleop.github.io/), [GenSim2](https://gensim2.github.io/)) accepted by CoRL 2024.
 * Jan. 21, 2024. Two papers accepted by ICLR 2024.
 * Jan. 21, 2023. One paper accepted by ICLR 2023.
@@ -59,16 +59,21 @@ redirect_from:
 
 # Selected Publications ([Full List](https://minghuanliu.com/publications/))
 
-<b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b> <br>
+<b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b><br>
 Shiqi Yang, <b>Minghuan Liu</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
-<i>CoRL 2024</i>.  [<a href="https://arxiv.org/abs/2408.11805">paper</a>] [<a href="https://ace-teleop.github.io/">project</a>] [<a href="https://github.com/ACETeleop/ACETeleop">code</a>]
+<b>CoRL 2024</b>.  [<a href="https://arxiv.org/abs/2408.11805">paper</a>] [<a href="https://ace-teleop.github.io/">project</a>] [<a href="https://github.com/ACETeleop/ACETeleop">code</a>]
 <br>
 
-<b>Visual Whole-Body Control for Legged Loco-Manipulation</b> <br>
+<b>Visual Whole-Body Control for Legged Loco-Manipulation</b><br>
 <b>Minghuan Liu\*</b>, Zixuan Chen*, Xuxin Cheng, Yandong Ji, Ruihan Yang, Xiaolong Wang.<br>
 <b>CoRL 2024</b>. <font color="red"><em><strong>(Oral)</strong></em></font>.  [<a href="https://arxiv.org/abs/2403.16967">paper</a>] [<a href="https://wholebody-b1.github.io/">project</a>] [<a href="https://github.com/Ericonaldo/visual_wholebody">code</a>]
 
-<b>Vision-Language Foundation Models as Effective Robot Imitators</b> <br>
+<b>GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs</b><br>
+Pu Hua\*, <b>Minghuan Liu\*</b>, Annabella Macaluso\*, Yunfeng Lin, Weinan Zhang, Huazhe Xu, Lirui Wang.<br>
+<b>CoRL 2024</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2410.03645">paper</a>] [<a href="https://gensim2.github.io/">project</a>] [<a href="https://github.com/GenSim2/gensim2">code</a>]
+
+
+<b>Vision-Language Foundation Models as Effective Robot Imitators</b><br>
 Xinghang Li*, <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.<br>
 <b>ICLR 2024</b>. <font color="red"><em><strong>(Spotlight)</strong></em></font>.  [<a href="https://arxiv.org/abs/2311.01378">paper</a>] [<a href="https://github.com/RoboFlamingo/RoboFlamingo">code</a>] [<a href="https://roboflamingo.github.io/">project</a>]
 
