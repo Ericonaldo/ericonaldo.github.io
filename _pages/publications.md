@@ -32,8 +32,8 @@ Hongtao Wu, Ya Jing, Chilam Cheang, Guangzeng Chen, Jiafeng Xu, Xinghang Li, <b>
 
 <br>
 <b>MADiff: Offline Multi-agent Learning with Diffusion Models</b> <br> 
-Zhengbang Zhu* <b>Minghuan Liu</b>, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
-<i>NeurIPS 2024</i>. <b>Arxiv</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
+Zhengbang Zhu, <b>Minghuan Liu</b>, Liyuan Mao, Bingyi Kang, Minkai Xu, Yong Yu, Stefano Ermon, Weinan Zhang. <br> 
+<i>The 38th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2024</b>. [<a href="https://arxiv.org/abs/2305.17330">paper</a>] [<a href="https://github.com/zbzhu99/madiff">code</a>] 
 
 <br>
 <b>Is Risk-Sensitive Reinforcement Learning Properly Resolved?</b> <br>
