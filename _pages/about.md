@@ -70,7 +70,7 @@ Shiqi Yang, <b>Minghuan Liu</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng,
 
 <b>GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs</b><br>
 Pu Hua\*, <b>Minghuan Liu\*</b>, Annabella Macaluso\*, Yunfeng Lin, Weinan Zhang, Huazhe Xu, Lirui Wang.<br>
-<b>CoRL 2024</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2410.03645">paper</a>] [<a href="https://gensim2.github.io/">project</a>] [<a href="https://github.com/GenSim2/gensim2">code</a>]
+<b>CoRL 2024</b>. [<a href="https://arxiv.org/abs/2410.03645">paper</a>] [<a href="https://gensim2.github.io/">project</a>] [<a href="https://github.com/GenSim2/gensim2">code</a>]
 
 
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b><br>
