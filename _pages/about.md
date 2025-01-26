@@ -99,10 +99,11 @@ Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun 
 
 
 # Competitions
-* TOP1, Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw) May. 23, 2022.
-* TOP5, Liver Cancer Imaging AI Diagnosis. [[Link]](https://www.datafountain.cn/competitions/335)[[News]](https://mp.weixin.qq.com/s/yA_M4u71RLKoFKuKd9Jqiw) Apr. 4, 2019.
-* TOP10, SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)  Mar. 23, 2019.
-* TOP3, Weather Forecast Competition of AI Challenger 2018. [[Link]](https://challenger.ai)[[News]](https://challenger.ai//ai_challenger_2018_winners) Nov. 19, 2018. 
+* TOP1, Ubiquant Retro Snake Challenge. [[News]](https://mp.weixin.qq.com/s/PbdfoV7eKC02-rp0a9UrLw) May 2022.
+* TOP5, Liver Cancer Imaging AI Diagnosis. [[Link]](https://www.datafountain.cn/competitions/335)[[News]](https://mp.weixin.qq.com/s/yA_M4u71RLKoFKuKd9Jqiw) Apr 2019.
+* TOP 6, Finalist of Sports Analytics Challenge (sponsored by PSG), July 2019
+* TOP10, SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)  Mar 2019.
+* TOP3, Weather Forecast Competition of AI Challenger 2018. [[Link]](https://challenger.ai)[[News]](https://challenger.ai//ai_challenger_2018_winners) Nov 2018. 
 
 # Honors and Awards
 * [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship), Oct. 2022.
