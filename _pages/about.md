@@ -23,13 +23,13 @@ redirect_from:
 
 <!-- * I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I used to be the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. I am also a member of [Wu Wen Jun Honorary Doctoral Plan (吴文俊荣誉博士班)](https://xsb.seiee.sjtu.edu.cn/xsb/info/33498.htm), advised by [Prof. Cewu Lu](https://www.mvig.org/). I won [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2022. [[My Curriculum Vitae]](/files/minghuanliu_cv.pdf) (update in Jan. 2023) -->
 
-* I am a final-year Ph.D. student in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). From Sept. 2023 - Aug. 2024, I visited Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s Lab at UC San Diego, CA, USA, and did robotics learning research. I used to be the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. I am also a member of [Wu Wen Jun Honorary Doctoral Plan (吴文俊荣誉博士班)](https://xsb.seiee.sjtu.edu.cn/xsb/info/33498.htm), advised by [Prof. Cewu Lu](https://www.mvig.org/). I won [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2022. [[My Curriculum Vitae]](/files/minghuanliu_cv.pdf) (updated in Dec. 2024)
+* I obtained my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). I used to be the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. I was also a member of [Wu Wen Jun Honorary Doctoral Plan (吴文俊荣誉博士班)](https://xsb.seiee.sjtu.edu.cn/xsb/info/33498.htm), advised by [Prof. Cewu Lu](https://www.mvig.org/). From Sept. 2023 - Aug. 2024, I visited Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s Lab at UC San Diego, CA, USA, and did robotics learning research. I won [ByteDance Scholars Program (字节跳动奖学金)](https://ur.bytedance.com/scholarship) (10 candidates worldwide each year) in 2022. I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) in June 2019.  [[My Curriculum Vitae]](/files/minghuanliu_cv.pdf) (updated in Dec. 2024)
 
 * My research interests lie in the general area of **decision modeling**. Particularly, I was devoted to (data-driven) **reinforcement learning (RL)** methods (such as **imitation learning (IL)**, **offline RL**) and also **foundation models** that can help resolve real-world decision-making challenges. 
   
 * Recently, I have been working on one of the most complicated decision-making problems, **robots**, aiming at taking intelligent robots closer to real life, e.g., expanding the skills of robots, and helping robots make smart decisions. In detail, my works focus on how to generate and utilize robot data to control robots, such as **sim2real**, **robot teleoperation**, **imitation**, and **real2sim**. I believe we should construct a data-efficient robot training and evaluation cycle, and develop the robot control system in a well-designed hierarchical way. I do not believe in fully end2end learning in robot control.
   
-* When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts), where I have **4.8k+** followers.
+* When I read interesting papers, I sometimes write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
 
 # Recent News
 * Sept. 26, 2024. One paper ([MADiff](https://arxiv.org/abs/2305.17330)) accepted by NeurIPS 2024.
@@ -57,7 +57,18 @@ redirect_from:
 <!-- * * Mar. 23, 2019. Won the TOP10 of the SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)-->
 <!-- * * Nov. 19, 2018. Won the TOP3 of the Weather Forecast Competition of AI Challenger 2018. [[Link]](https://challenger.ai)[[News]](https://challenger.ai//ai_challenger_2018_winners)-->
 
-# Selected Publications ([Full List](https://minghuanliu.com/publications/))
+# Selected Projects ([Full Paper List](https://scholar.google.com/citations?user=O_4qYW4AAAAJ))
+\* Equal Contribution ^ Project Lead
+
+<b>HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion</b><br>
+Yufei Xue*, Wentao Dong*, <b>Minghuan Liu^</b>, Weinan Zhang, Jiangmiao Pang<br>
+<b>Arxiv 2025</b>.  [<a href="https://hugwbc.github.io/resources/HugWBC.pdf">paper</a>] [<a href="https://hugwbc.github.io/">project</a>]
+<br>
+
+<b>RoboVLMs: Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models</b><br>
+Xinghang Li, Peiyan Li, <b>Minghuan Liu^</b>, Dong Wang, Jirong Liu, Bingyi Kang, Xiao Ma, Tao Kong, Hanbo Zhang, Huaping Liu†<br>
+<b>Arxiv 2024</b>.  [<a href="https://arxiv.org/abs/2412.14058">paper</a>] [<a href="https://robovlms.github.io/">project</a>] [<a href="https://github.com/Robot-VLAs/RoboVLMs">code</a>]
+<br>
 
 <b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b><br>
 Shiqi Yang, <b>Minghuan Liu</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
@@ -71,7 +82,6 @@ Shiqi Yang, <b>Minghuan Liu</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng,
 <b>GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs</b><br>
 Pu Hua\*, <b>Minghuan Liu\*</b>, Annabella Macaluso\*, Yunfeng Lin, Weinan Zhang, Huazhe Xu, Lirui Wang.<br>
 <b>CoRL 2024</b>. [<a href="https://arxiv.org/abs/2410.03645">paper</a>] [<a href="https://gensim2.github.io/">project</a>] [<a href="https://github.com/GenSim2/gensim2">code</a>]
-
 
 <b>Vision-Language Foundation Models as Effective Robot Imitators</b><br>
 Xinghang Li*, <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, Tao Kong.<br>
