@@ -4,6 +4,10 @@ title: "Selected Publications / Preprints (* Equal Contribution.)"
 permalink: /publications/
 author_profile: true
 ---
+<b>HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion</b><br>
+Yufei Xue*, Wentao Dong*, <b>Minghuan Liu^</b>, Weinan Zhang, Jiangmiao Pang<br>
+<b>RSS 2025</b>.  [<a href="https://hugwbc.github.io/resources/HugWBC.pdf">paper</a>] [<a href="https://hugwbc.github.io/">project</a>]
+<br>
 
 <b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b> <br>
 Shiqi Yang, <b>Minghuan Liu</b>, Yuzhe Qin, Runyu Ding, Jialong Li, Xuxin Cheng, Ruihan Yang, Sha Yi, Xiaolong Wang<br>
