@@ -61,8 +61,9 @@ redirect_from:
 
 # Selected Projects ([Full Paper List](https://scholar.google.com/citations?user=O_4qYW4AAAAJ))
 \* Equal Contribution ^ Project Lead
+
 <b>Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots</b><br>
-<b>Minghuan Liu*</b>, Zhengbang Zhu*, Xiaoshen Han*, Peng Hu*, Haotong Lin, Xinyao Li, Jingxiao Chen, Jiafeng Xu, Yichu Yang, Yunfeng Lin, Xinghang Li, Yong Yu, Weinan Zhang, Tao Kong, Bingyi Kang<br>
+<b>Minghuan Liu\*</b>, Zhengbang Zhu\*, Xiaoshen Han\*, Peng Hu\*, Haotong Lin, Xinyao Li, Jingxiao Chen, Jiafeng Xu, Yichu Yang, Yunfeng Lin, Xinghang Li, Yong Yu, Weinan Zhang, Tao Kong, Bingyi Kang<br>
 <b>Tech Report</b>.  [<a href="https://manipulation-as-in-simulation.github.io/">paper</a>] [<a href="https://manipulation-as-in-simulation.github.io/">project</a>]
 <br>
 
