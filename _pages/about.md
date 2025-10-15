@@ -74,7 +74,7 @@ Yufei Xue*, Wentao Dong*, <b>Minghuan Liu^</b>, Weinan Zhang, Jiangmiao Pang<br>
 
 <b>RoboVLMs: Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models</b><br>
 Xinghang Li^, Peiyan Li, <b>Minghuan Liu^</b>, Dong Wang, Jirong Liu, Bingyi Kang, Xiao Ma, Tao Kong, Hanbo Zhang^, Huaping Liu<br>
-<b>Arxiv 2024</b>.  [<a href="https://arxiv.org/abs/2412.14058">paper</a>] [<a href="https://robovlms.github.io/">project</a>] [<a href="https://github.com/Robot-VLAs/RoboVLMs">code</a>]
+<b>Nature Machine Intelligence</b>.  [<a href="https://arxiv.org/abs/2412.14058">paper</a>] [<a href="https://robovlms.github.io/">project</a>] [<a href="https://github.com/Robot-VLAs/RoboVLMs">code</a>]
 <br>
 
 <b>ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation</b><br>
