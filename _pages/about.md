@@ -100,7 +100,7 @@ Xinghang Li*, <b>Minghuan Liu*</b>, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, 
 
 <b>PerfectDou: Dominating DouDizhu with Perfect Information Distillation</b><br>
 Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun Zeng, Yue Lin.<br>
-<b>NeurIPS 2022</b>. [<a href="https://arxiv.org/abs/2203.16406">paper</a>] [<a href="https://github.com/microsoft/autorl-research/tree/main/a2ls">code</a>]
+<b>NeurIPS 2022</b>. [<a href="https://arxiv.org/abs/2203.16406">paper</a>] [<a href="https://github.com/Netease-Games-AI-Lab-Guangzhou/PerfectDou">code</a>]
 
 <b>Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization.</b><br>
 <b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang.<br>
