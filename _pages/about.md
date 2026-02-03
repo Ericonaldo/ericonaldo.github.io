@@ -32,6 +32,7 @@ redirect_from:
 * When I read interesting papers, I sometimes write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
 
 # Recent News
+* Jan. 31, 2026. Cross-humanoid locomotion [H-zero]([http://hugwbc.github.io/](https://arxiv.org/abs/2512.00971)) and real2sim2real [Re3Sim](https://xshenhan.github.io/Re3Sim/) accepted by ICRA 2026.
 * Sept. 4, 2025. [ManipAsInSim](https://manipulation-as-in-simulation.github.io) released!
 * Apr. 11, 2025. [HugWBC](http://hugwbc.github.io/) accepted by RSS 2025.
 * Sept. 26, 2024. [MADiff](https://arxiv.org/abs/2305.17330) accepted by NeurIPS 2024.
