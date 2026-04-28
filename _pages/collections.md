@@ -4,6 +4,14 @@ permalink: /collections/
 author_profile: true
 ---
 
+<b>[AgentMonitor](https://github.com/Ericonaldo/AgentMonitor)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericonaldo/AgentMonitor?style=social"><br>
+A session-based web agent monitor.<br>
+
+<b>[RoboVLMs](https://github.com/Robot-VLAs/RoboVLMs)</b>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Robot-VLAs/RoboVLMs?style=social"><br>
+Composable VLA framework.<br>
+
 <b>[VBC](https://github.com/Ericonaldo/visual_wholebody)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericonaldo/visual_wholebody?style=social"><br>
 Train a loco-manipulation dog with RL.<br>
@@ -20,7 +28,7 @@ An Easy-to-run Imitation Learning (IL, or Learning from Demonstration, LfD) and 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/apexrl/Imitation-Learning-Paper-Lists?style=social"><br>
 Paper Collection for Imitation Learning in RL.<br>
 
-<b>[Batch-Offline--RL-Paper-Lists](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists)</b>
+<!-- <b>[Batch-Offline--RL-Paper-Lists](https://github.com/apexrl/Batch-Offline--RL-Paper-Lists)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/apexrl/Batch-Offline--RL-Paper-Lists?style=social"><br>
 Paper Collection of Reinforcement Learning Exploration covers Offline Reinforcement Learning.<br>
 
@@ -34,6 +42,6 @@ Collections of powerful RL architectures with brief introductions, including rep
 
 <b>[Football-Analytics-101](https://github.com/Ericonaldo/Football-Analytics-101)</b>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ericonaldo/Football-Analytics-101?style=social"><br>
-Collections of useful information about football analytics.<br>
+Collections of useful information about football analytics.<br> -->
 
 
